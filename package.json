@@ -1,0 +1,16 @@
+{
+  "name": "jsqrcode-upsource",
+  "version": "0.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "*",
+    "grunt": "*",
+    "grunt-contrib-coffee": "*",
+    "grunt-contrib-concat": "^0.5.0",
+    "grunt-contrib-uglify": "*",
+    "grunt-mocha-test": "*",
+    "matchdep": "*",
+    "mocha": "*",
+    "sinon": "*"
+  }
+}

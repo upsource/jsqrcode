@@ -1,0 +1,8 @@
+{
+  "name": "jsqrcode-upsource",
+  "description": "JavaScript QRCode reader for HTML5 enabled browser.",
+  "main": "dist/jsqrcode.js",
+  "version": "0.0.0",
+  "dependencies": {}
+}
+
